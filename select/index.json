@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Houdini",
+  "base_artist": "Eminem",
+  "createdAt": "2026-02-28T06:58:11.603553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Houdini (feat. Swarmz & Tion Wayne) [Pink Panda Remix]",
+      "artist": "KSI",
+      "has_synced": true,
+      "path": "select/01_Houdini_(feat._Swarmz_&_Tion_Wayne)_[Pink_Panda_Remix]_KSI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Houdini (feat. Swarmz & Tion Wayne)",
+      "artist": "KSI",
+      "has_synced": true,
+      "path": "select/02_Houdini_(feat._Swarmz_&_Tion_Wayne)_KSI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Houdini",
+      "artist": "nothing,nowhere.",
+      "has_synced": true,
+      "path": "select/03_Houdini_nothing,nowhere..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Handcuffs for Houdini",
+      "artist": "Cutting Crew",
+      "has_synced": true,
+      "path": "select/04_Handcuffs_for_Houdini_Cutting_Crew.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Houdini",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/05_Houdini_Yello.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Houdini",
+      "artist": "SONOIO",
+      "has_synced": true,
+      "path": "select/06_Houdini_SONOIO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cologne Cerrone Houdini",
+      "artist": "Goldfrapp",
+      "has_synced": true,
+      "path": "select/07_Cologne_Cerrone_Houdini_Goldfrapp.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Great Houdini",
+      "artist": "New Found Glory",
+      "has_synced": false,
+      "path": "select/08_The_Great_Houdini_New_Found_Glory.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Houdini",
+      "artist": "Kate Bush",
+      "has_synced": true,
+      "path": "select/09_Houdini_Kate_Bush.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Houdini Blues",
+      "artist": "Kristin Hersh",
+      "has_synced": false,
+      "path": "select/10_Houdini_Blues_Kristin_Hersh.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Houdini",
+      "artist": "Foster the People",
+      "has_synced": true,
+      "path": "select/11_Houdini_Foster_the_People.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "David Copperfield vs Harry Houdini",
+      "artist": "Epic Rap Battles of History",
+      "has_synced": true,
+      "path": "select/12_David_Copperfield_vs_Harry_Houdini_Epic_Rap_Battles_of_History.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Houdini Said",
+      "artist": "Gilbert O'Sullivan",
+      "has_synced": true,
+      "path": "select/13_Houdini_Said_Gilbert_O'Sullivan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Arts in D Minor / Harry Houdini - Justin Strauss 12\" Remix",
+      "artist": "Kon Kan",
+      "has_synced": true,
+      "path": "select/14_Arts_in_D_Minor___Harry_Houdini_-_Justin_Strauss_12__Remix_Kon_Kan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Arts In D MinorHarry Houdini (Justin Strauss 12 Remix)",
+      "artist": "Kon Kan",
+      "has_synced": true,
+      "path": "select/15_Arts_In_D_MinorHarry_Houdini_(Justin_Strauss_12_Remix)_Kon_Kan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Houdini",
+      "artist": "Foster The People",
+      "has_synced": true,
+      "path": "select/16_Houdini_Foster_The_People.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Houdini (feat. Swarmz & Tion Wayne)",
+      "artist": "KSI feat. Tion Wayne & Swarmz",
+      "has_synced": true,
+      "path": "select/17_Houdini_(feat._Swarmz_&_Tion_Wayne)_KSI_feat._Tion_Wayne_&_Swarmz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Houdini",
+      "artist": "Eminem",
+      "has_synced": false,
+      "path": "select/pl_01_Houdini_Eminem.txt"
+    }
+  ]
+}
